@@ -1,0 +1,22 @@
+[
+  {
+    "code": "10345",
+    "name": "Strawberry Lemonade Sorbet",
+    "ingredients": [
+      "Lemonade",
+      "Organic Strawberries"
+    ],
+    "price": 12,
+    "available": true
+  },
+  {
+    "code": "1035",
+    "name": "\"Strawberry Lemonade Sorbet\"",
+    "ingredients": [
+      "Lemonade",
+      "Organic Strawberries"
+    ],
+    "price": 12,
+    "available": true
+  }
+]
